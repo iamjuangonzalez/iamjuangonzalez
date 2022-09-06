@@ -1,16 +1,9 @@
-### Hi [Jhon Freiman Arias][website] Here 👋 
-[![Twitter Follow](https://img.shields.io/twitter/follow/arias_freiman?color=%231da1f2&label=arias_freiman&logo=twitter&style=for-the-badge)](https://twitter.com/arias_freiman/)
+### Hi, i'm [Juan Jose Gonzalez Dulcey][website] Here 👋 
+[![Twitter Follow](https://img.shields.io/twitter/follow/jjgd_dev?color=%231da1f2&label=arias_freiman&logo=twitter&style=for-the-badge)](https://twitter.com/jjgd_dev/)
 
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">][website]
-### 👨🏾‍💻 Web Developer & 🎹 Pianist Amateur!
-Here are some ideas to get you started:
+[<img align='right' src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="180">][website]
+### 👨🏾‍💻 Frontend Developer !
 
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱  I’m currently learning Javascript, React, MongoDB.
-- 👯  I’m looking to collaborate on a startup
-- 💬  Ask me about to be a web dev
-- 😄  Pronouns: 'he/him'
-- ⚡  Fun fact: I love play to piano but no time to play (that's fun)
 
 ---
 ### 🚀 Coding
