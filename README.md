@@ -1,5 +1,5 @@
 ### Hi, i'm [Juan Jose Gonzalez Dulcey][website] Here 👋 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jjgd_dev?color=%231da1f2&label=Juan Gonzalez&logo=twitter&style=for-the-badge)](https://twitter.com/jjgd_dev/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jjgd_dev?color=%231da1f2&label=Juan_Gonzalez&logo=twitter&style=for-the-badge)](https://twitter.com/jjgd_dev/)
 
 [<img align='right' src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="180">][website]
 ### 🧑‍💻 Frontend Developer !
