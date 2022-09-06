@@ -1,8 +1,8 @@
 ### Hi, i'm [Juan Jose Gonzalez Dulcey][website] Here 👋 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jjgd_dev?color=%231da1f2&label=arias_freiman&logo=twitter&style=for-the-badge)](https://twitter.com/jjgd_dev/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jjgd_dev?color=%231da1f2&label=Juan Gonzalez&logo=twitter&style=for-the-badge)](https://twitter.com/jjgd_dev/)
 
 [<img align='right' src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="180">][website]
-### 👨🏾‍💻 Frontend Developer !
+### 🧑‍💻 Frontend Developer !
 
 
 ---
@@ -27,4 +27,4 @@
 ---
 
 <!-- links -->
-[website]: https://www.instagram.com/jhonarias_13/
+[website]: https://www.instagram.com/jjg.dev/
