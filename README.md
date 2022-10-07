@@ -13,7 +13,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-- 📫 Cómo contactarme **juanjosegonzalezdulcey@gmail.com**
+  - 📫 Cómo contactarme: <strong> juanjosegonzalezdulcey@gmail.com </strong>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
