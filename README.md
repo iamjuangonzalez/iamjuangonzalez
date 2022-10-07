@@ -11,10 +11,9 @@
 
 - 💬 Pregúntame sobre **Angular**
 
-- 📫 Cómo contactarme **juanjosegonzalezdulcey@gmail.com**
-
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
+- 📫 Cómo contactarme **juanjosegonzalezdulcey@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
