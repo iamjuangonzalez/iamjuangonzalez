@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjuangonzalez&label=Profile%20views&color=0079d6&style=flat" alt="iamjuangonzalez" /> </p>
 
-- 🔭 Actualmente estoy trabajando en [Nabu](https://amazing-stardust-9fe260.netlify.app/)
+- 🔭 El proyecto mas reciente fue trabajando [Nabu](https://amazing-stardust-9fe260.netlify.app/)
 
 - 🌱 Actualmente estoy aprendiendo **React Js con Fernando Herrera Udemy**
 
